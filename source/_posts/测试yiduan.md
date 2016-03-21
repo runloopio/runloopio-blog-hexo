@@ -15,3 +15,24 @@ tags:
 3. `hexo d` 发布页面
 
 还有tags和about页面还没做
+
+
+# runloopio-blog-hexo
+
+Blog source repo
+
+##How to setup
+
+- `npm i`
+
+## Write post
+
+- `hexo n` eg: `hexo n "Introduction of run loop"`
+
+## Test post
+
+- `hexo s --debug`, open your eyes and watch it in ur browser
+
+## Deploy post
+
+- `./publish.sh`
