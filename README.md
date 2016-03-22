@@ -16,4 +16,4 @@ Blog source repo
 
 ## Deploy post
 
-- `./publish.sh`
+- `sh ./publish.sh`
